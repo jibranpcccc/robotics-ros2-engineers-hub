@@ -4,10 +4,17 @@
     <title>Robotics &amp; ROS 2 Engineers Hub</title>
     <link>https://robotics-ros2-engineers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 11:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:49:38 GMT</lastBuildDate>
     <atom:link href="https://robotics-ros2-engineers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-forum-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 10:49:38 GMT</pubDate>
+      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>Robotics &amp; ROS 2 Engineers Hub Initial Release</title>
       <link>https://robotics-ros2-engineers-hub.vercel.app/</link>
       <pubDate>Sun, 13 Sep 2026 11:41:07 GMT</pubDate>
