@@ -4,10 +4,17 @@
     <title>Robotics &amp; ROS 2 Engineers Hub</title>
     <link>https://robotics-ros2-engineers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:06:04 GMT</lastBuildDate>
     <atom:link href="https://robotics-ros2-engineers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                        <item>
+                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/MechanicalKeyboards Custom Builders (Reddit)</title>
+      <link>https://www.reddit.com/r/MechanicalKeyboards/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-reddit-20261021-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:06:04 GMT</pubDate>
+      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: The largest community of custom mechanical keyboard hobbyists, discussing switches, lubing techniques, keycap profiles, and PCB design.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/homelab Infrastructure Guild (Reddit)</title>
       <link>https://www.reddit.com/r/homelab/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-reddit-20261020-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-discord-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:05:22 GMT</pubDate>
       <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: OpenAI Official Discord (Discord)</title>
-      <link>https://discord.gg/openai</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-discord-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:07:34 GMT</pubDate>
-      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
     </item>
   </channel>
 </rss>
