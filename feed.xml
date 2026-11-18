@@ -4,10 +4,17 @@
     <title>Robotics &amp; ROS 2 Engineers Hub</title>
     <link>https://robotics-ros2-engineers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:26:39 GMT</lastBuildDate>
     <atom:link href="https://robotics-ros2-engineers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
+      <link>https://www.reddit.com/r/technology/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros-2-engineers-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:26:39 GMT</pubDate>
+      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-discord-20261025-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-reddit-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:05:37 GMT</pubDate>
       <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Community dedicated to hosting your own software, Docker compose stacks, cloud alternatives, and privacy-preserving infrastructure.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
-      <link>https://www.reddit.com/r/hardware/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-reddit-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:05:42 GMT</pubDate>
-      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Deep-dive technical discussions on semiconductor architectures, CPU/GPU node lithography, RAM timings, and PC components.</description>
     </item>
   </channel>
 </rss>
