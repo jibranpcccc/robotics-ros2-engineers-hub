@@ -4,10 +4,17 @@
     <title>Robotics &amp; ROS 2 Engineers Hub</title>
     <link>https://robotics-ros2-engineers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 09:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:14:53 GMT</lastBuildDate>
     <atom:link href="https://robotics-ros2-engineers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros-2-engineers-hub-forum-6-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 07:14:53 GMT</pubDate>
+      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
       <link>https://t.me/techcrunch</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros-2-engineers-hub-telegram-5-2026-11-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-reddit-20261024-1-2026-10-24</guid>
       <pubDate>Sat, 24 Oct 2026 06:05:49 GMT</pubDate>
       <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Discussions on internet privacy, open-source encrypted communication, telemetry mitigation, and zero-knowledge tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/homeassistant Smart Home IoT (Reddit)</title>
-      <link>https://www.reddit.com/r/homeassistant/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-reddit-20261023-1-2026-10-23</guid>
-      <pubDate>Fri, 23 Oct 2026 06:05:51 GMT</pubDate>
-      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: The premier hub for local, privacy-first smart home automation using Home Assistant, Zigbee, Z-Wave, and ESPHome microcontrollers.</description>
     </item>
   </channel>
 </rss>
