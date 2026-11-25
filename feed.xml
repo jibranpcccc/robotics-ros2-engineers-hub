@@ -4,10 +4,17 @@
     <title>Robotics &amp; ROS 2 Engineers Hub</title>
     <link>https://robotics-ros2-engineers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 07:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:25:20 GMT</lastBuildDate>
     <atom:link href="https://robotics-ros2-engineers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Python Official Discord (Discord)</title>
+      <link>https://discord.gg/python</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros-2-engineers-hub-discord-8-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:25:20 GMT</pubDate>
+      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Active real-time developer server for Python help, code reviews, algorithmic design, and package development.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
       <link>https://www.reddit.com/r/Python/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros-2-engineers-hub-reddit-7-2026-11-24</guid>
@@ -173,13 +180,6 @@
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-discord-20261025-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:52:45 GMT</pubDate>
-      <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
-      <link>https://discord.gg/linux</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/robotics-ros2-engineers-hub/#robotics-ros2-engineers-hub-discord-20261025-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:05:55 GMT</pubDate>
       <description>Newly verified community added to Robotics &amp; ROS 2 Engineers Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
     </item>
   </channel>
